@@ -10,7 +10,9 @@
     <h1> P3P </h1>
 <article>
 <h2>Sites</h2>
-    <li> Programming </li>
+    <li> 
+        <a href="https://sites.google.com/xtec.cat/programacio/">Programming</a> 
+    </li>
     <li> Libreoffice Calc </li>
     <li> Libreoffice Writer </li>
     <li> Libreoffice BASE </li>
