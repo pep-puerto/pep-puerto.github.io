@@ -9,7 +9,6 @@
 <body>
     <h1> P3P </h1>
 <article>
-<h2>Sites </h2>
     <li> 
         <a href="https://sites.google.com/xtec.cat/programacio/">Programming</a> 
     </li>
