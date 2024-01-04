@@ -15,23 +15,24 @@
         <h1> P3P </h1>
       </div>
     
-<article>
-    <li> 
+    <article>
+        <li> 
         <a href="https://sites.google.com/xtec.cat/programacio/">Programming</a> 
-    </li>
-    <li> 
+        </li>
+        <li> 
         <a href="https://sites.google.com/xtec.cat/libreofficecalc/">Libreoffice Calc </a>
-    </li>
-    <li> 
+        </li>
+        <li> 
         <a href="https://sites.google.com/xtec.cat/libreofficewriter">Libreoffice Writer </a>
-    </li>
-    <li> 
+        </li>
+        <li> 
         <a href="https://sites.google.com/xtec.cat/libreofficebase/">Libreoffice BASE </a> 
-    </li>
-    <li>
+        </li>
+        <li>
         <a href="https://sites.google.com/xtec.cat/publicacions/">Publicacions </a>
-    </li>
-    <li> Multimedia </li>
-</article>
+        </li>
+        <li> Multimedia </li>
+        </article>
+    </div>
 </body>
 </html>
