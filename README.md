@@ -29,9 +29,7 @@
         <a href="https://sites.google.com/xtec.cat/publicacions/">Publicacions </a>
         </li>
         <li> Multimedia </li>
-        </article>
-      </div>
-   
+        </article>  
     </div>
 </body>
 </html>
