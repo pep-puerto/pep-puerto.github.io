@@ -20,7 +20,9 @@
         <a href="https://sites.google.com/xtec.cat/libreofficewriter">Libreoffice Writer </a>
     </li>
     <li> Libreoffice BASE </li>
-    <li> Libreoffice Impres</li>
+    <li>
+        <a href="https://sites.google.com/xtec.cat/publicacions/">Publicacions </a>
+    </li>
     <li> Multimedia </li>
 </article>
 </body>
