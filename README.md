@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <title>Document</title>
+    <h1> P3P </h1>
     <link rel="stylesheet" href="estils.css" type="text/css">
 </head>
 <body>
