@@ -16,7 +16,10 @@
     <li> 
         <a href="https://sites.google.com/xtec.cat/libreofficecalc/">Libreoffice Calc </a>
     </li>
-    <li> Libreoffice Writer </li>
+    <li> 
+        <a href="https://sites.google.com/xtec.cat/libreofficewriter">Libreoffice Writer </a>
+        Libreoffice Writer 
+    </li>
     <li> Libreoffice BASE </li>
     <li> Libreoffice Impres</li>
     <li> Multimedia </li>
