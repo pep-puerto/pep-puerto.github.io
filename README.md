@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="estils.css" type="text/css">
-    <img src="logo_txiki_180_verd.png" width="64" height="64">
+    <img src="logo_txiki_180_vermell.png" width="64" height="64">
 </head>
 <body>
     <h1> P3P </h1>
