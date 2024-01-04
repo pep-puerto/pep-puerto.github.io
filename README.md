@@ -18,7 +18,6 @@
     </li>
     <li> 
         <a href="https://sites.google.com/xtec.cat/libreofficewriter">Libreoffice Writer </a>
-        Libreoffice Writer 
     </li>
     <li> Libreoffice BASE </li>
     <li> Libreoffice Impres</li>
