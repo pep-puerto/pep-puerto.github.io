@@ -13,9 +13,7 @@
       </div>
       <div class="text">
         <h1> P3P </h1>
-      </div>
-    
-    <article>
+        <article>
         <li> 
         <a href="https://sites.google.com/xtec.cat/programacio/">Programming</a> 
         </li>
@@ -33,6 +31,8 @@
         </li>
         <li> Multimedia </li>
         </article>
+      </div>
+   
     </div>
 </body>
 </html>
