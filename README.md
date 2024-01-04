@@ -12,7 +12,9 @@
       </div>
       <div class="text">
         <h1> P3P </h1>
-        <article>
+      </div>
+    </div>
+    <article>
         <li> 
         <a href="https://sites.google.com/xtec.cat/programacio/">Programming</a> 
         </li>
@@ -29,7 +31,6 @@
         <a href="https://sites.google.com/xtec.cat/publicacions/">Publicacions </a>
         </li>
         <li> Multimedia </li>
-        </article>  
-    </div>
+       </article>  
 </body>
 </html>
