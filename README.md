@@ -7,7 +7,14 @@
     <img src="logo_txiki_180_vermell.png" width="64" height="64">
 </head>
 <body>
-    <h1> P3P </h1>
+    <div class="container">
+      <div class="image">
+        <img src="logo_txiki_180_vermell.png" width="64" height="64">
+      </div>
+      <div class="text">
+        <h1> P3P </h1>
+      </div>
+    
 <article>
     <li> 
         <a href="https://sites.google.com/xtec.cat/programacio/">Programming</a> 
