@@ -2,7 +2,7 @@ em {
   font-style: italic;
 }
 a:link {
-  color: green;
+  color: red;
   background-color: transparent;
   text-decoration: none;
 }
@@ -14,7 +14,7 @@ a:visited {
 }
 
 a:hover {
-  color: red;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
