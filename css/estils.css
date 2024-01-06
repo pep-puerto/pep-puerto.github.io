@@ -1,18 +1,9 @@
-em {
-  font-style: italic;
-}
-
-html,
-body,
-app-root,
-.app-frame {
-  font-family: "Comic Sans MS";
-}
-
-img {
-  max-width: 100%;
-  max-height:100%;
-}
+html{font-family: "Lucida Console", "Courier New", monospace;}
+title{ color: red; font: 12px tahoma;}
+em {font-style: italic;}
+body{ color: green; background-color: rgb(3, 16, 20);}
+img {max-width: 100%; max-height:100%;}
+h3 {text-shadow: 1px 1px;}
 
 a:link {
   color: green;
