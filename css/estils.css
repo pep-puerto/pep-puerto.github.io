@@ -48,5 +48,6 @@ a:active {
  align-items: center;
  grid-template-columns: 1fr;
  column-gap: 25px;
+ display: flex;
+ justify-content: center;
 }
-
