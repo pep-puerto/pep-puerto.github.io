@@ -8,7 +8,7 @@
 <body>
     <div class="container">
       <div class="image">
-        <img src="logo_txiki_180_vermell.png" width="64" height="64">
+        <img src="img/logo_txiki_180_vermell.png" width="64" height="64">
       </div>
       <div class="text">
         <h1> P3P </h1>
