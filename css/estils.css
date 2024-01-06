@@ -10,7 +10,7 @@ body{
   border: 2px solid green;
   margin: 50px;
 }
-img {max-width: 25%; max-height:25%;}
+img {max-width: 100%; max-height:100%;}
 em {font-style: italic;}
 h1{font-size: 18px;}
 h2{font-size: 17px;}
@@ -48,6 +48,4 @@ a:active {
  align-items: center;
  grid-template-columns: 1fr;
  column-gap: 25px;
- display: flex;
- justify-content: center;
 }
